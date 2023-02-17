@@ -15,6 +15,7 @@ Tool that generates random ROBLOX usernames by checking if they are already take
 **I recommend** using something like [**notepad++**](https://notepad-plus-plus.org/downloads/v8.4.9/) to edit the config.js 
 ## Setup
 
+(will make a step by step yt video soon, i'll put the link here.)
 1) Download [Node.js **v18.13.0**](https://nodejs.org/en/download/) or newer
 2) once installed, we will now need to install some npm thingies. Open cmd and run these:
  `npm install discord.js`\
